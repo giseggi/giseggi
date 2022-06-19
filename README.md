@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 |`I am mainly using`|
 |-----|
-|<img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=CNN"/>|
+|<img src = "https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++"/>|
