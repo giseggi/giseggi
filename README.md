@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|`I am mainly using`|
+|I am mainly using|
 |-----|
 |<img src = "https://img.shields.io/badge/-JAVA-FF160B?style=flat-square&logo=JAVA"/><img src = "https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring"/>|
