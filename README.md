@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 |I am mainly using|
 |-----|
-|<img src="https://img.shields.io/badge/-JAVA-FF160B?style=flat-square&logo=JAVA"/> <img src = "https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src = "https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle Database-F80000?style=flat-square&logo=oracle"/> <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql"/>|
+|<img src="https://img.shields.io/badge/-JAVA-FF160B?style=flat-square&logo=JAVA"/> <img src = "https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src = "https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-Oracle Database-F80000?style=flat-square&logo=oracle"/> <img src = "https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>|
