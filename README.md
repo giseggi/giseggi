@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 |I am mainly using|
 |-----|
-|<img src = "https://img.shields.io/badge/-JAVA-FF160B?style=flat-square&logo=JAVA"/> <img src = "https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring Boot"/>|
+|<img src = "https://img.shields.io/badge/-JAVA-FF160B?style=flat-square&logo=JAVA"/> <img src = "https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=SPRING"/>|
